@@ -22,11 +22,7 @@ layout: default
         </a>
       </h3>
       {%- if site.show_excerpts -%}
-        {%- if post.excerpt.size > 500 -%}
-          {{ post.excerpt | slice: 0, 500}} ...
-        {%- else -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        {{post.excerpt}}
       {%- endif -%}
     </li>
     {%- endfor -%}
