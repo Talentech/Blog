@@ -4,18 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Welcome to Talentech’s official technology blog.
-In 2019 four leading HR-tech companies, HR Manager, ReachMee, Webcruiter and Talmundo, merged to become Talentech. Tech element in our name is not by a mistake, it's a core of our company. Under the hood of great business processes are dozens of services and different technologies. 
-On this blog we plan to share posts about technology we are working with, various challenges and how we have solved them and other topics we find useful to write about. 
-   
---GROUP PHOTO--
+Welcome to Talentech’s developer blog. In this blog we will share posts written by the developers about projects and technology we are working on and other topics we find interesting.
+
+In 2019 four leading HR-tech companies, HR Manager, ReachMee, Webcruiter and Talmundo, merged to become Talentech. Our ambition is to be the most exiting HR tech company to work for and we want to be great at how we can use technology to solve problems and make great tools for our customers.  
 
 code, deploy, repeat
+
 enjoy
 
 
 
-
-Talentech is a great place to work and maybe you are interested in joining us? In that case, you should probably check out our careers page.
-
-Check our products: [talentech.com](http://talentech.com/)
+We think Talentech is a great place to work for developers and maybe you are interested in joining us? In that case, you should probably check out what we offer at [talentech.com](http://talentech.com/)
