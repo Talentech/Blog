@@ -6,7 +6,7 @@
     <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
-      <img src="{{ site.title-logo | relative_url }}" alt={{ site.title | escape }} />
+      <img src="{{ site.title-logo | relative_url }}" alt={{ site.title | escape }} width="100" height="100" />
       {%- else -%}
       {{ site.title | escape }}
       {%- endif -%}
