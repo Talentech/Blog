@@ -6,6 +6,9 @@ categories: [development]
 tags: [talentech, security, identityserver]
 excerpt_separator: <!--more-->
 ---
+Talentech is an HR Tech company delivering SaaS solutions that help our customers recruit, onboard, and develop their people. This requires a solid technical solution for handling identity and security. This article describes how we are using Duende IdentityServer as a core part of our identity solution.
+
+<!--more-->
 
 Back in 2016 we started looking into how we could modernize our SaaS offering. At the time we were offering a web based application tracking system (ATS) to our customers, built using ASP.NET WebForms and implemented as a monolithic app. We had also recently started offering a second product, a Talent Management system. The two systems had separate user databases, so if a customer used both products, their users would have two separate user accounts and the user experience could have been better.
 
@@ -14,7 +17,7 @@ We saw that we wanted to make some improvements to the user experience, and we a
 Our tech stack with ASP.NET WebForms was starting to get a bit dated and we had started to look into [ASP.NET 5](https://www.hanselman.com/blog/aspnet-5-is-dead-introducing-aspnet-core-10-and-net-core-10) as it was called at the time. I think we were a bit lucky with the timing, because after some Googling we quickly found out that Dominick Baier and Brock Allen had just [announced IdentityServer for ASP.NET 5](https://leastprivilege.com/2016/01/11/announcing-identityserver-for-asp-net-5-and-net-core/). To make a long story short, we went all in on IdentityServer and 5 years later we have a solid solution and have a quarter million user accounts and are repidly growing.
 
 
-<!--more-->
+
 
 ## Supporting a growing application landscape
 
