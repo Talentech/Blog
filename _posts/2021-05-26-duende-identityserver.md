@@ -35,7 +35,7 @@ One big advantage we get with IdentityServer is the support for external identit
 
 ## Taking identity and access control seriously
 
-We've used Duende IdentityServer to make sure we can offer our users a secure and scalable platform. During the implementation, we've had good help from the team behind IdentityServer and have had several architecture and review sessions with Dominick Baier.
+We've used [Duende IdentityServer](https://duendesoftware.com/products/identityserver) to make sure we can offer our users a secure and scalable platform. During the implementation, we've had good help from the team behind IdentityServer and have had several architecture and review sessions with Dominick Baier.
 
 > It has been interesting to follow Talentech on their journey from the initial adoption of IdentityServer to where they are today. With 6 merged companies and a broad range of product offerings, IdentityServer makes sure they can handle identity and access control in a secure and future proof way.
 >
