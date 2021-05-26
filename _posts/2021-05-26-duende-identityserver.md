@@ -7,7 +7,7 @@ tags: [talentech, security, identityserver]
 excerpt_separator: <!--more-->
 ---
 
-Back in 2016 (initial commit 11 Feb 2016) we started looking into how we could modernize our SaaS offering. At the time we were offering a web based application tracking system (ATS) to our customers, built using ASP.NET WebForms and implemented as a monolithic app. We had also recently started offering a second product, a Talent Management system. The two systems had separate user databases, so if a customer used both products, their users would have two separate user accounts and the user experience could have been better.
+Back in 2016 we started looking into how we could modernize our SaaS offering. At the time we were offering a web based application tracking system (ATS) to our customers, built using ASP.NET WebForms and implemented as a monolithic app. We had also recently started offering a second product, a Talent Management system. The two systems had separate user databases, so if a customer used both products, their users would have two separate user accounts and the user experience could have been better.
 
 We saw that we wanted to make some improvements to the user experience, and we also wanted to improve the technical implementation and look into how we could modernize our technical platform.
 
